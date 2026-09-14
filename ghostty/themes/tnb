@@ -1,0 +1,30 @@
+# Tomorrow Night Blue
+# Based on the classic Tomorrow theme family
+
+background = 0A1428
+foreground = ffffff
+
+cursor-color = ffffff
+
+selection-background = 003f8e
+selection-foreground = ffffff
+
+# Normal colors (0-7)
+palette = 0=#001a3d   
+palette = 1=#ff9da4   
+palette = 2=#d1f1a9   
+palette = 3=#ffeead   
+palette = 4=#bbdaff   
+palette = 5=#ebbbff   
+palette = 6=#99ffff   
+palette = 7=#ffffff   
+
+# Bright colors (8-15)
+palette = 8=#7285b7   
+palette = 9=#ff9da4   
+palette = 10=#d1f1a9  
+palette = 11=#ffc58f  
+palette = 12=#bbdaff  
+palette = 13=#ebbbff  
+palette = 14=#99ffff  
+palette = 15=#ffffff  

@@ -1,0 +1,27 @@
+# Turbo2026 - Ghostty Theme (Turbo C++ inspired, softened for modern eyes)
+
+# Base colors
+background = 0A1428
+foreground = E0E0E0
+cursor-color = F0E070
+selection-background = 2A4A7A
+selection-foreground = E0E0E0
+
+# 16-color palette (classic ANSI)
+palette = 0=#0A1428 
+palette = 1=#FF7070 
+palette = 2=#70E0A0 
+palette = 3=#F0E070 
+palette = 4=#40C0FF 
+palette = 5=#D0B0FF 
+palette = 6=#40B0E0 
+palette = 7=#A0A8B8 
+
+palette = 8=#334F7F 
+palette = 9=#FF9090 
+palette = 10=#80E0A0
+palette = 11=#F0E070
+palette = 12=#60D0FF
+palette = 13=#C080FF
+palette = 14=#70B0FF
+palette = 15=#E0E0E0

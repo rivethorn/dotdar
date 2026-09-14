@@ -1,0 +1,8 @@
+{
+  "plugins": {
+    "lilvim": {
+      "rev": "6d9d29107aeeb7e3356878dbde92431012fbe07b",
+      "src": "https://github.com/mvllow/lilvim"
+    }
+  }
+}

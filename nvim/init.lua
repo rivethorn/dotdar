@@ -1,16 +1,8 @@
 -- bootstrap lazy.nvim, LazyVim and your plugins
 require("config.lazy")
 
-vim.opt.shortmess:remove("I")
-
-vim.lsp.config("basedpyright", {
-  settings = {
-    basedpyright = {
-      analysis = {
-        autoSearchPaths = true,
-        diagnosticMode = "openFilesOnly",
-        useLibraryCodeForTypes = true,
-      },
-    },
+require("lspconfig").clangd.setup({
+  init_options = {
+    fallbackFlags = { "--std=c++26" },
   },
 })

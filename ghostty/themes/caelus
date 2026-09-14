@@ -1,0 +1,24 @@
+background = 0f0f0f
+foreground = f4decd
+cursor-color = ef934d
+
+selection-background = 3b403c
+selection-foreground = f4decd
+
+palette = 0=#141514
+palette = 1=#f16e65
+palette = 2=#7ec97e
+palette = 3=#efbf71
+palette = 4=#71b4d6
+palette = 5=#e28dc6
+palette = 6=#7ec9a3
+palette = 7=#d9cdb5
+
+palette = 8=#585f5b
+palette = 9=#ef968f
+palette = 10=#a4daa4
+palette = 11=#efbf71
+palette = 12=#b0d4e8
+palette = 13=#ebadd6
+palette = 14=#abd4bf
+palette = 15=#e3d6c9
