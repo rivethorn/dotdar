@@ -112,3 +112,5 @@ status --is-interactive; and rbenv init - --no-rehash fish | source
 
 # xfetch path
 fish_add_path /Users/rivethorn/.local/bin
+
+eval (/opt/homebrew/bin/brew shellenv fish)
