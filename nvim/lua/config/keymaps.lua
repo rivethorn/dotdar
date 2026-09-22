@@ -15,3 +15,5 @@ end, { desc = "Make it rain..." })
 
 -- Remove the default Lazy menu key
 vim.keymap.del("n", "<leader>l")
+
+keymap("n", "<leader>ci", ":Krust<cr>", { desc = "Show Krust window" })
