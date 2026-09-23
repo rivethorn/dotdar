@@ -157,9 +157,14 @@ return {
   },
 
   {
+    "al3rez/darktooth.nvim",
+    lazy = false,
+  },
+
+  {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "gruvbox-material",
+      colorscheme = "cendre",
     },
   },
 }
