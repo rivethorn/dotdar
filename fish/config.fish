@@ -99,9 +99,6 @@ set -gx PATH /Users/rivethorn/flutter/bin $PATH
 # export PUB_HOSTED_URL="https://dart.devneeds.ir"
 # export FLUTTER_STORAGE_BASE_URL="https://flutter.devneeds.ir"
 # /Users/rivethorn/.local/bin/mise activate fish | source
-undo init fish | source
-
-set -gx PATH ~/Downloads/zig-aarch64-macos-0.17.0-dev.1426+58a94eaae/ $PATH
 
 # set -gx CC /opt/homebrew/bin/clang
 # set -gx CXX /opt/homebrew/bin/clang++
